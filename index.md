@@ -4,7 +4,7 @@ During the first fall 2020 eight week period, I was an assistant instructor for 
 
 Here are my lecture notes for my M018 instructor lectures for this class:
 
-IMPORTANT NOTE: There are also notes for the 2020 Fall I period when I also instructed the class. These [Fall II notes](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020) are very similar to the Fall I notes except more polished on the explanations but with less homework explanations.
+IMPORTANT NOTE: There are additionally lecture notes for the 2020 Fall I period when I also instructed the class. These [Fall II lecture notes](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020) are very similar to the Fall I notes except more polished on the explanations but with less homework explanations.
 
 **Sets**
 
