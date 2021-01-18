@@ -26,6 +26,14 @@ Here are my lecture notes for my M018 instructor lectures for this class:
 
 **Linear Equations**
 
+-[Linear Equations Lesson 1 (9/15-9/22 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-1.pdf)
+
+-[Linear Equations Lesson 2 (9/22-9/28 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-2.pdf)
+
+-[Linear Equations Lesson 3 (9/29-10/1 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-3.pdf)
+
+-[Linear Equations Lesson 4 (10/1-10/6 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-4.pdf)
+
 **Inequalities**
 
 This class is a survey of various areas of math involved in "art" as well as in "decision". In this class, we learn symmetries (i.e., group theory involving symmetry groups), game theory, graph theory, voting theory, perspectives (i.e., linear algebra in 3 dimensions) all at an introductory level.
