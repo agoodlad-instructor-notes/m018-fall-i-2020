@@ -16,6 +16,14 @@ Here are my lecture notes for my M018 instructor lectures for this class:
 
 **Probability and Counting**
 
+-[Probability and Counting Lesson 1 (9/3-9/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-1.pdf)
+
+-[Probability and Counting Lesson 2 (9/7-9/9 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-2.pdf)
+
+-[Probability and Counting Lesson 3 (9/8-9/13 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-3.pdf)
+
+-[Probability and Counting Lesson 4 (9/9-9/16 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-4.pdf)
+
 **Linear Equations**
 
 **Inequalities**
