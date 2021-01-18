@@ -1,3 +1,33 @@
+## M018 Basic Algebra for Finite Math Fall I 2020 Lecture Notes
+
+During the first fall 2020 eight week period, I was an assistant instructor for the Indiana University class Basic Algebra for Finite Math (M018). This class is a two credit prep course for Finite Math. In this class, we learn basic sets, basic counting, basic probability, algebra on linear equations, inequalities, and linear programming.
+
+Here are my lecture notes for my M018 instructor lectures for this class:
+
+**Sets**
+
+-[Symmetries (6/9-6/12 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/symmetries.pdf)
+
+**Probability and Counting**
+
+**Linear Equations**
+
+**Inequalities**
+
+This class is a survey of various areas of math involved in "art" as well as in "decision". In this class, we learn symmetries (i.e., group theory involving symmetry groups), game theory, graph theory, voting theory, perspectives (i.e., linear algebra in 3 dimensions) all at an introductory level.
+
+Here are my lecture notes for my M106 recitation lectures during this class:
+
+-[Symmetries (6/9-6/12 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/symmetries.pdf)
+
+-[Game Theory (6/13-6/24 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/game-theory.pdf)
+
+-[Graph Theory (6/26-7/7 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/graph-theory.pdf)
+
+-[Voting Theory (7/9-7/17 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/voting-theory.pdf)
+
+-[Perspectives (7/21-7/28 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/perspective.pdf)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/agoodlad-instructor-notes/m018-fall-i-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
