@@ -6,7 +6,13 @@ Here are my lecture notes for my M018 instructor lectures for this class:
 
 **Sets**
 
--[Symmetries (6/9-6/12 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/symmetries.pdf)
+-[Sets Lesson 1 (8/25-8/27 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-1.pdf)
+
+-[Sets Lesson 2 (8/27-8/31 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-2.pdf)
+
+-[Sets Lesson 3 (8/31-9/1 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-3.pdf)
+
+-[Sets Lesson 4 (9/1-9/3 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-4.pdf)
 
 **Probability and Counting**
 
