@@ -8,36 +8,36 @@ IMPORTANT NOTE: There are also notes for my 2020 Fall II period. These [Fall II 
 
 **Sets**
 
--[Sets Lesson 1 (8/25-8/27 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-1.pdf)
+-[Sets Lesson 1 (8/25-8/27)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-1.pdf)
 
--[Sets Lesson 2 (8/27-8/31 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-2.pdf)
+-[Sets Lesson 2 (8/27-8/31)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-2.pdf)
 
--[Sets Lesson 3 (8/31-9/1 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-3.pdf)
+-[Sets Lesson 3 (8/31-9/1)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-3.pdf)
 
--[Sets Lesson 4 (9/1-9/3 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-4.pdf)
+-[Sets Lesson 4 (9/1-9/3)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/sets-lesson-4.pdf)
 
 **Probability and Counting**
 
--[Probability and Counting Lesson 1 (9/3-9/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-1.pdf)
+-[Probability and Counting Lesson 1 (9/3-9/8)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-1.pdf)
 
--[Probability and Counting Lesson 2 (9/7-9/9 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-2.pdf)
+-[Probability and Counting Lesson 2 (9/7-9/9)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-2.pdf)
 
--[Probability and Counting Lesson 3 (9/8-9/13 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-3.pdf)
+-[Probability and Counting Lesson 3 (9/8-9/13)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-3.pdf)
 
--[Probability and Counting Lesson 4 (9/9-9/16 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-4.pdf)
+-[Probability and Counting Lesson 4 (9/9-9/16)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/probability-and-counting-lesson-4.pdf)
 
 **Linear Equations**
 
--[Linear Equations Lesson 1 (9/15-9/22 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-1.pdf)
+-[Linear Equations Lesson 1 (9/15-9/22)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-1.pdf)
 
--[Linear Equations Lesson 2 (9/22-9/28 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-2.pdf)
+-[Linear Equations Lesson 2 (9/22-9/28)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-2.pdf)
 
--[Linear Equations Lesson 3 (9/29-10/1 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-3.pdf)
+-[Linear Equations Lesson 3 (9/29-10/1)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-3.pdf)
 
--[Linear Equations Lesson 4 (10/1-10/6 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-4.pdf)
+-[Linear Equations Lesson 4 (10/1-10/6)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/linear-equations-lesson-4.pdf)
 
 **Inequalities**
 
--[Inequalities Lesson 1 (10/5-10/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/inequalities-lesson-1.pdf)
+-[Inequalities Lesson 1 (10/5-10/8)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/inequalities-lesson-1.pdf)
 
--[Inequalities Lesson 2 (10/7-10/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/inequalities-lesson-2.pdf)
+-[Inequalities Lesson 2 (10/7-10/8)](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020/inequalities-lesson-2.pdf)
